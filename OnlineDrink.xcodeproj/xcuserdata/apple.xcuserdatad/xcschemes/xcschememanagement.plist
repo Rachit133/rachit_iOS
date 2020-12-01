@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Beer Connect Dev.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>Beer Connect.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>180A21DE23DEB48000D5B27F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>188A001423D59C9C004961EF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>188A001F23D59C9C004961EF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>188AFFFE23D59C97004961EF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

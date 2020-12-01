@@ -1,0 +1,24 @@
+
+// MARK: - LOGIN MODULE CONSTANT
+// LOGIN SCREEN
+"LOGIN_TITLE"= "Sign In";
+"LOGIN_EMAIL_PLACEHOLDER"= "Username";
+"LOGIN_PASSWORD_PLACEHOLDER"= "Password";
+"LOGIN_BTN_TITLE"= "     Sign In";
+"LOGIN_SIGN_UP_ACCOUNT_TITLE"= "    Don’t have an account?";
+"LOGIN_SIGN_UP_BTN_TITLE"= "Sign Up";
+
+//LOGIN SCREEN ALERT
+"ALERT_ERROR_TITLE"= "ERROR";
+"ALERT_USERNAME_EMPTY"= "Please enter your email id.";
+"ALERT_INVALID_EMAIL"= "Please enter valid email id.";
+"ALERT_PASSWORD_EMPTY"= "Please enter your password.";
+"ALERT_INVALID_PASSWORD"= "Please enter valid password.";
+
+// Tab Bar Items Names
+"HOME" = "Home"
+"SEARCH" = "Search"
+"CART" = "Cart"
+"WISHLIST" = "Wishlist"
+"ACCOUNT" = "Account"
+

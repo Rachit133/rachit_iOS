@@ -1,0 +1,103 @@
+/* 
+  Localizable.strings
+  Beer Connect
+
+  Created by Synsoft on 22/01/20.
+  Copyright © 2020 Synsoft. All rights reserved.
+*/
+
+// MARK: - LOGIN MODULE CONSTANT
+
+// LOGIN SCREEN
+"LOGIN_TITLE"= "Sign In";
+"LOGIN_EMAIL_PLACEHOLDER"= "Email";
+"LOGIN_PASSWORD_PLACEHOLDER"= "Password";
+"LOGIN_BTN_TITLE"= "     Sign In";
+"LOGIN_SIGN_UP_ACCOUNT_TITLE"= "    Don’t have an account?";
+"LOGIN_SIGN_UP_BTN_TITLE"= "Sign Up";
+
+//LOGIN SCREEN ALERT
+"ALERT_ERROR_TITLE"= "ERROR";
+"ALERT_USERNAME_EMPTY"= "Please enter your Email.";
+"ALERT_INVALID_EMAIL"= "Please enter valid Email.";
+"ALERT_PASSWORD_EMPTY"= "Please enter your Password.";
+"ALERT_INVALID_PASSWORD"= "Please enter valid Password.";
+
+
+// MARK: - REGISTRATION MODULE CONSTANT
+// REGISTRATION SCREEN
+"REGISTRATION_TITLE"= "Sign Up";
+
+// MARK: - SEARCH MODULE CONSTANT
+// SEARCH SCREEN
+"SEARCH_TITLE"= "Search";
+
+// MARK: - TAB BAR ITEM NAMES
+"HOME" = "Home";
+"SEARCH" = "Search";
+"CART" = "Cart";
+"WISHLIST" = "Wishlist";
+"ACCOUNT" = "Account";
+
+
+// MARK: - ACTIVITY INDICATOR STATUS STRIGN
+"SHOW_STATUS" = "Loading ...";
+
+// Order list
+"ALERT" = "Alert";
+"FROM_DATE_FIRST" = "Select From Date First";
+"OK" = "OK";
+"CANCEL"="Cancel";
+// Filter
+
+"FILTER_TITLE" = "Filter";
+
+"FORGOT_TITLE" = "Forgot Password";
+
+"LOGOUT" = "Are you sure you want to Logout?";
+"REQUIRE_PURCASE_ORDER" = "Please enter Purchase Order number.";
+"REQUIRE_DELIVERY_DATE" = "Please select  requested delivery date.";
+
+"DEALS_TITLE"="Deals of the day";
+"SELLER_TITLE"="Best Seller";
+"YES"="yes";
+"DOLLER_SYM"="$";
+"STOCK_QUANTITY_TITLE"="Stock Quantity: ";
+"NETWORK_ERROR"="Please check your Internet connection and try again.";
+"MY_CART_TITLE"="My Cart";
+"TOTAL_TITLE"="Total: ";
+"DELETE_TITLE"="Delete";
+"DELETE_MESSAGE"="Do you want to delete this product ?";
+"DELETE_CART_MESSAGE"="Do you want to delete cart ?";
+
+"TRUE"="true";
+"ADDRESS_ADDED_MESSAGE"="Address Added Successfully";
+"DATE_SELECT_TITLE" = "Select Date";
+"OUT_OF_STOCK_MESSAGE" = "This item is out of stock. please try in sometime.";
+"IN_STOCK" = "instock";
+"SEARCH_PRODUCT_TITLE"="Search Products";
+
+"QUANTITY_TITLE"= "Quantity";
+"ORDER_SUCCESS_TITLE"="Order Success";
+"ALL_FIELD_VALIDATION" = "All fields are required";
+
+"OUTOFSTOCK" = "This item is out of stock, Please remove it";
+"OUT_OF_STOCK_TITLE" = "Product out of stock error";
+"SELECT_DATE" = "Please select date first";
+"SEARCH_PLACEHOLDER" = "Please type minimum 3 character.";
+"TOKEN_ADDED_SUCCESS" = "Your device token added successfully.";
+"PAYMENT_NOT_FOUND" = "Payment types not found.";
+"GATEWAY_NOT_FOUND" = "Gateway not available from server.";
+
+"CUSTOMER_NOT_FOUND" = "Customers list not available. Please try in sometime.";
+"ALL_REQUIRED" = "All Fields are Required.";
+"FIRST_NAME_FIELD" = "Please enter valid first Name.";
+"LAST_NAME_FIELD" = "Please enter valid last Name.";
+"EMAIL_FIELD" = "Please enter valid email id.";
+"PASS_VERIFY" = "Please enter same password for confirm password.";
+"ENABLE_NOTIFICATION" = "Notifications enable successfully.";
+"DISABLE_NOTIFICATION" = "Notifications disable successfully.";
+"PRODUCT_NOT_FOUND" = "Products not available.";
+"NOTIFICATION_PERMISSION" = "Your need to give a permission from notification settings.";
+"SETTINGS" = "Settings";
+"SAME_EMAIL_FIELD" = "You can not used old email. Please enter new one";
